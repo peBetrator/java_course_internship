@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1stTask_DateTimeOperations [FirstTask]/1stTask_DateTimeOperations [FirstTask].iml" filepath="$PROJECT_DIR$/1stTask_DateTimeOperations [FirstTask]/1stTask_DateTimeOperations [FirstTask].iml" />
+      <module fileurl="file://$PROJECT_DIR$/2ndTask_StructureFromImage [SecondTask]/2ndTask_StructureFromImage [SecondTask].iml" filepath="$PROJECT_DIR$/2ndTask_StructureFromImage [SecondTask]/2ndTask_StructureFromImage [SecondTask].iml" />
+      <module fileurl="file://$PROJECT_DIR$/3rdTask_SOLID [ThirdTask]/3rdTask_SOLID [ThirdTask].iml" filepath="$PROJECT_DIR$/3rdTask_SOLID [ThirdTask]/3rdTask_SOLID [ThirdTask].iml" />
+      <module fileurl="file://$PROJECT_DIR$/4thTask_Generics [FourthTtask]/4thTask_Generics [FourthTtask].iml" filepath="$PROJECT_DIR$/4thTask_Generics [FourthTtask]/4thTask_Generics [FourthTtask].iml" />
+      <module fileurl="file://$PROJECT_DIR$/5thTask_Cucumber [FifthTask]/5thTask_Cucumber [FifthTask].iml" filepath="$PROJECT_DIR$/5thTask_Cucumber [FifthTask]/5thTask_Cucumber [FifthTask].iml" />
+      <module fileurl="file://$PROJECT_DIR$/6thTask_IOStreaming [SixthTask]/6thTask_IOStreaming [SixthTask].iml" filepath="$PROJECT_DIR$/6thTask_IOStreaming [SixthTask]/6thTask_IOStreaming [SixthTask].iml" />
+      <module fileurl="file://$PROJECT_DIR$/8thTask_DesignPatterns [EightTask]/8thTask_DesignPatterns [EightTask].iml" filepath="$PROJECT_DIR$/8thTask_DesignPatterns [EightTask]/8thTask_DesignPatterns [EightTask].iml" />
+      <module fileurl="file://$PROJECT_DIR$/Additional_Tasks/Additional_Tasks.iml" filepath="$PROJECT_DIR$/Additional_Tasks/Additional_Tasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7thTask_Selenium [SeventhTask]/SeleniumTask.iml" filepath="$PROJECT_DIR$/7thTask_Selenium [SeventhTask]/SeleniumTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/internship_automation-autumn-2018.iml" filepath="$PROJECT_DIR$/.idea/internship_automation-autumn-2018.iml" />
+    </modules>
+  </component>
+</project>

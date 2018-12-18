@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="4thTask_Generics [FourthTtask]" />
+        <module name="5thTask_Cucumber [FifthTask]" />
+        <module name="6thTask_IOStreaming [SixthTask]" />
+        <module name="8thTask_DesignPatterns [EightTask]" />
+        <module name="8thTask_DesignPatters [EightTask]" />
+        <module name="SeleniumTask" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="4thTask_Generics [FourthTtask]" target="8" />
+      <module name="5thTask_Cucumber [FifthTask]" target="1.5" />
+      <module name="6thTask_IOStreaming [SixthTask]" target="7" />
+      <module name="7thTask_Selenium [SeventhTask]" target="1.5" />
+      <module name="8thTask_DesignPatterns [EightTask]" target="1.5" />
+      <module name="8thTask_DesignPatters [EightTask]" target="1.5" />
+      <module name="_5thTask_CucumberFifthTask" target="1.5" />
+      <module name="AdditionalTask" target="1.5" />
+      <module name="CucumberTask" target="1.5" />
+      <module name="delete_this" target="1.5" />
+      <module name="SeleniumTask" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

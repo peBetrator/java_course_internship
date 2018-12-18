@@ -1,0 +1,10 @@
+.idea/*
+target/
+test-output/
+*.png
+*.html
+*.iml
+out
+Java Course/
+TestCucumber/
+drivers/
